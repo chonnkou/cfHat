@@ -1,5 +1,3 @@
-## Consensus Formation in Human–AI Teams (HATs) — Code Repository
-
 This repository contains the code used to generate the simulation results in our working paper on consensus formation in human–AI teams.
 
 ### Repository Structure
